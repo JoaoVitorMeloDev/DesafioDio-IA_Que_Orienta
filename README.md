@@ -42,3 +42,8 @@ A proposta é ir além de respostas simples, entregando uma experiência onde a 
 ---
 
 ## 📂 Estrutura do Projeto
+📦 DesafioDio-IA_Que_Orienta
+┣ 📜 main.py
+┣ 📜 prompts.txt (ou similar)
+┣ 📜 requirements.txt
+┗ 📜 README.md
